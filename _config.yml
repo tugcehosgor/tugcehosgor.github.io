@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Tugce Hosgor
+twitter_username: tugce_hosgor
+name: Tugce Hosgor
 
 # Build settings
 markdown: kramdown
@@ -22,10 +22,10 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
+ - Google Analytics
+ - Google Ads
+ - Keyword Planner
+ - WordPress
  - Product management
  - API design
  - Groovy
@@ -36,7 +36,7 @@ skills:
  - SQL
  - REST
  - Technical Architecture
- - Machine learning
+ - Multitasking
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
