@@ -43,33 +43,50 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
+ - title: E- commerce and Product Analyst
    start: 2017
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
+   employer: GotMeals
+   description: 
+   •	Research target market segments based on age, gender, location, and interest
+   •	Managed, maintained and developed social media sites for businesses in order to enhance their overall online reputation
+   •	Analyzed each campaign with business owners to develop richer strategies for upcoming campaigns.
+   •	Developed keyword stats, search engine rankings, keyword suggestions, and keyword placement.
+  
+   
+ - title: E-commerce & SEO Specialist 
+   start: 2018
+   end: Ongoing
+   employer: Worldwide Fish and Pets
+   description: 
+  • Rebranded the website by using WordPress (Logo also belongs to me :))
+  •	Increased organic revenue 378% and non-paid traffic +48% in first four-months for e-commerce
+  •	Researched high volume keywords through keyword planner to update anchor text, title tags, and descriptions
+  •	Improved ranking of top key words
+ - title: Website Manager 
+   start: 2017
+   end: 2018
+   employer: http://theballroomevents.com/
+   description:
+   •	Built the website by using Webflow
+   •	Ensure website functionality, monitor assets and report on website performance
+   •	Maintain optimal website performance and manage hosting environment
+ - title: Production Planning Engineer 
+   start: 2015
    end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   employer: Comefri
+   description: 
+   •	Preparing production plan on daily, weekly, and monthly period for related production areas according to sales forecast & minimum stock level targets from top to bottom including all semi -finished goods production plan
+   •	Running MRP based on short long-term plan, checking the material stock level and open purchase requisitions for needed materials based on MRP
+   •	Preparing monthly & yearly forecast for raw materials and checking the availability of materials to the production with working purchasing department collaboration
+   •	Responsible from stock planning and optimization activities with reporting daily, weekly and monthly level
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Bachelor of Engineering 
+   date: 2014
+   subject: Industrial Engineering
+   school: Istanbul Kultur University
 
 #This section is optional (as is the image link below)
 coursera:
